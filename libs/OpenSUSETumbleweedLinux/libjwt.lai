@@ -8,7 +8,7 @@
 dlname='libjwt.so.2'
 
 # Names of this library.
-library_names='libjwt.so.2.8.2 libjwt.so.2 libjwt.so'
+library_names='libjwt.so.2.9.0 libjwt.so.2 libjwt.so'
 
 # The name of the static archive.
 old_library='libjwt.a'
@@ -23,9 +23,9 @@ dependency_libs=' -ljansson -lssl -lcrypto'
 weak_library_names=''
 
 # Version information for libjwt.
-current=10
-age=8
-revision=2
+current=11
+age=9
+revision=0
 
 # Is this an already installed library?
 installed=yes
